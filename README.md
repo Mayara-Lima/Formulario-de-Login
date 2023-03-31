@@ -19,8 +19,10 @@ Como resultado temos:
 ![image](https://user-images.githubusercontent.com/109659867/227930219-f1ae51a7-826d-44dc-b690-c629b712070b.png)
 
 
-Caso os dados estejam errados teremos o seguinte retorno:
+Caso os dados estejam errados (no caso deste projeto a base de dados já está definida) teremos o seguinte retorno:
 
-![image](https://user-images.githubusercontent.com/109659867/229113347-a1864c0f-3cba-4dab-ab5e-4a847a26a2f0.png)
+
+![image](https://user-images.githubusercontent.com/109659867/229113733-a3ca1c3e-fb3a-4275-9857-115b6f723d13.png)
+
 
 
